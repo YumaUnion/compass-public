@@ -9,5 +9,5 @@ Public resources:
 -----------------
 
 * [WebPortal](https://www.compass-ed.org/compass/) For Timesheets, Leave, etc.
-* [Documentation](https://gitlab.compass-ed.org/compass/public/wikis/home)
+* [Documentation]([https://gitlab.compass-ed.org/compass/public/wikis/home](https://github.com/YumaUnion/compass-public/wiki))
 
